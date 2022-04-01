@@ -3,7 +3,6 @@ function main(){
     var myLastName = "Gudic";
     var myHomeTown = "Bugojno";
     
-
     return {
         myFirstName,
         myLastName,
